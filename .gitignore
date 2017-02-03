@@ -1,0 +1,7 @@
+# gitignore 
+# CCS
+/*Debug*/
+.xdchelp
+/.config/
+/.launches/
+/.config/
