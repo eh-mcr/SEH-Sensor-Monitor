@@ -93,7 +93,8 @@
 #include "nwk.h"
 
 #include "msp430x22x4.h"
-#include "vlo_rand.h"
+
+#include "../peer applications/vlo_rand.h"
 
 #define MESSAGE_LENGTH 3
 void TXString( char* string, int length );
